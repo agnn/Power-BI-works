@@ -29,6 +29,7 @@ I have tried my best to optimize the report to make it as interactive and inform
 
 
 INSIGHTS
+
   OVERALL – 
   ELITE MART HAS LEAST INFULL% RATE OF 37.94% AND EXPRESSION STORES HAS THE HIGHEST WITH 60.83%
   
